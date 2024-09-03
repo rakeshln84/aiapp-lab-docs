@@ -17,8 +17,7 @@ const config = {
   onBrokenMarkdownLinks: "ignore",
   trailingSlash: true,
 
-  organizationName: "insight",
-  projectName: "AI App In a Day Hackathon",
+  projectName: "rakeshln84.github.io",
   deploymentBranch: "main",
   favicon: "img/favicon.ico",
 
