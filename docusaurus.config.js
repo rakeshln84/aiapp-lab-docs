@@ -17,6 +17,7 @@ const config = {
   onBrokenMarkdownLinks: "ignore",
   trailingSlash: true,
 
+  organizationName: "rakeshln84",
   projectName: "rakeshln84.github.io",
   deploymentBranch: "main",
   favicon: "img/favicon.ico",
