@@ -11,10 +11,9 @@ This is a **75-minute** workshop that will give you a hands-on introduction to t
 
 By the end of this workshop, you should be able to:
 
- - Describe GPT model capabilities and implementation
- - Understand prompt engineering concepts and best practices
- - Apply prompt engineering techniques to your own generative AI solutions
-
+- Describe GPT model capabilities and implementation
+- Understand prompt engineering concepts and best practices
+- Apply prompt engineering techniques to your own generative AI solutions
 
 ## Lab Outline
 
@@ -26,6 +25,6 @@ The lab is organized into sections, taking you from "understanding" (core concep
 4. [Concepts & resources](/ai-models).
 5. [Learnings and Resources](/summary). Recap what you learned & identify next steps.
 
-
 ## Learner Feedback
-We would love to hear your feedback on this lab. Please visit the [GitHub repository for this lab](https://github.com/microsoft/Workshop-Interact-with-OpenAI-models/), and use the Issues tab for bugs or suggestions or create a pull-request with your suggestions.
+
+We would love to hear your feedback on this lab. Please visit the [GitHub repository for this lab](https://github.com/rakeshln84/aiapp-lab-docs), and use the Issues tab for bugs or suggestions or create a pull-request with your suggestions.
