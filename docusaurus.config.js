@@ -19,7 +19,7 @@ const config = {
 
   organizationName: "insight",
   projectName: "AI App In a Day Hackathon",
-  deploymentBranch: "gh-pages",
+  deploymentBranch: "main",
   favicon: "img/favicon.ico",
 
   i18n: {
