@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "Learn how to interact with OpenAI models",
   tagline: "A 75-minute workshop on OpenAI GPT Models for Microsoft AI Tour",
-  url: "https://mind-drive-technology.github.io/",
+  url: "https://rakeshln84.io/",
   baseUrl: "/aiapp-lab-docs/",
 
   onBrokenLinks: "ignore",
